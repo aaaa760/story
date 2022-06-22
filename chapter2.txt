@@ -1,3 +1,6 @@
 This chapter is for leaning git 
 
 This is for testing second branch 
+
+
+This is for confirming I have remembered how to use git
